@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: campaign-management-system-services
+Implementation-Version: 1.0.0
+Built-By: sudhanshu.c
+Implementation-Vendor-Id: com.sampana
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/campaign-management-system-services
+Created-By: Maven Integration for Eclipse
+
