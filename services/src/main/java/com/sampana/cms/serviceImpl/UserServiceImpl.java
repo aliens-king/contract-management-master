@@ -84,7 +84,7 @@ private User getUserObj(UserDTO userDTO) {
 			user.setFullName(userDTO.getFullName());
 			//user.setUpdatedAt(DateUtils.getDateObj(userDTO.getUpdatedAt(), IConstants.DATE_FORMAT));
 			user.setUserName(userDTO.getUserName());
-			user.setUserStatusId(userDTO.getUserStatusId());
+			//user.setUserStatusId(userDTO.getUserStatusId());
 		}
 		return user;
 	}
